@@ -5,7 +5,7 @@ Minecraft 1.18.1 for Apple Silicon
 
 The way to use it, it is the same as [official 1.18 experimental snapshots](https://www.minecraft.net/en-us/article/new-world-generation-java-available-testing). There it is a [visual guide with pictures](https://images.ctfassets.net/8y6ykjruobr4/5npJyh6JAV5ShVPjnZ74wM/a10d21227d399e94c904526ce8c313db/how-to-install-experimental-snapshots.jpg) which can help you through this process.
 
-1. Simply create a folder called `arm-1.18.1` inside your `minecraft/versions` folder and put [`arm-1.18.1.json`](https://github.com/joroldan/Minecraft-for-Apple-Silicon/blob/main/arm-1.18.1.json?raw=true) file inside.
+1. Simply create a folder called `arm-1.18.1` inside your `minecraft/versions` folder and put [`arm-1.18.1.json`](https://github.com/joroldan/Minecraft-for-Apple-Silicon/releases/download/1.18/arm-1.18.1.json) file inside.
 2. Create a new launch installation in the launcher and select the "release arm-1.18.1" version
 3. Below, in more options select a ARM Java Virtual Machine.
 4. Play and enjoy!
